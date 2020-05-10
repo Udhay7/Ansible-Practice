@@ -1,6 +1,6 @@
 ---
 - name: Set up an Apache Webserver
-  hosts: Web
+  hosts: 192.168.174.154
   become: yes
   tasks:
   - name: Install apache packages 
