@@ -1,6 +1,7 @@
 ---
 - name: Set up an Apache Webserver
   hosts: Web
+  become: yes
   tasks:
   - name: Install apache packages 
     yum:
