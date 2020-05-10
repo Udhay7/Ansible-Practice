@@ -1,2 +1,1 @@
-# Ansible-Practice
-# Ansible-Practice
+Red Hat Ansible Automation Platform Practice.
