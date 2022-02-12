@@ -6,7 +6,7 @@
   - name: Install apache packages 
     yum:
       name: httpd
-      state: present
+      state: absent
 
   - name: Ensure httpd is running
     service:
