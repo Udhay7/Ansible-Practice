@@ -8,7 +8,7 @@
       name: httpd
       state: absent
 
-  - name: Ensure httpd is running
+  - name: Ensure httpd is running or not
     service:
       name: httpd 
       state: started
