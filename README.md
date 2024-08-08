@@ -1,1 +1,1 @@
-Red Hat Ansible Automation Platform Practice.
+RH Ansible Automation Platform Practice.
